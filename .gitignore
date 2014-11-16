@@ -1,0 +1,14 @@
+wp-config.php
+
+# eclipse file #
+##############
+.buildpath
+.project
+.settings/*
+
+
+# PhpStorm file #
+.idea/*
+
+# NetBean #
+nbproject/
